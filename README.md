@@ -27,30 +27,11 @@ Always open to feedback and collaboration.
 ---
 
 
-### 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23007ACC.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![GIMP](https://img.shields.io/badge/gimp-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-
 ### 🛠️ Languages & Tools:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,unity,dotnet,js,nodejs,express,mongodb,react,html,css,git,github,docker,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,unity,dotnet,js,nodejs,express,mongodb,react,html,css,git,github,docker,vscode,figma,steam." />
   </a>
 </p>
 
