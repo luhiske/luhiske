@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-Hi, I'm a programmer from Serbia.
+Hi, I'm a programmer from Serbia working in C and C#.
 
 Here you'll find a mix of experiments, learning projects, and ideas I'm turning into something useful.
 Always open to feedback and collaboration.
@@ -39,7 +39,7 @@ Always open to feedback and collaboration.
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution
 
 ![Snake animation](https://raw.githubusercontent.com/luhiske/luhiske/output/github-contribution-grid-snake-dark.svg)
 
