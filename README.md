@@ -1,6 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=200&section=header&text=Iske&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
----
 
 # 💫 About Me:
 
@@ -13,11 +12,6 @@ Always open to feedback and collaboration.
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/luhiske/luhiske/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ### 🌐 Socials:
 
@@ -42,6 +36,12 @@ Always open to feedback and collaboration.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/luhiske/luhiske/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
