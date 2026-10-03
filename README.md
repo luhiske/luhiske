@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=200&section=header&text=Iske&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
 
-# 💫 About Me:
+### 💫 About Me:
 
 Hi, I'm a programmer from Serbia working in C and C#.
 
@@ -58,7 +58,6 @@ Always open to feedback and collaboration.
 
 ### 🔝 Top Contributed Repo
 
-<!-- Zameniti TVOJ_USERNAME i NAZIV_REPOZITORIJUMA sa svojim podacima -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luhiske&repo=liste-2026-andrej&theme=dark)](https://github.com/luhiske/liste-2026-andrej)
 
 ---
