@@ -13,6 +13,7 @@ Always open to feedback and collaboration.
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=false&vcenter=false&width=500&lines=Competitive+Programmer;Full-Stack+Web+Developer;Game+Developer" alt="Typing SVG" />
 </a>
+
 ---
 
 
