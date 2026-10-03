@@ -11,6 +11,14 @@ Always open to feedback and collaboration.
 
 ---
 
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/TVOJ_GITHUB_USERNAME/TVOJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrej.isailovic@prvabeogim.edu.rs)
