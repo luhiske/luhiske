@@ -26,12 +26,6 @@ Always open to feedback and collaboration.
 
 ---
 
-### 🎵 Currently Playing on Spotify:
-
-[![Spotify Readme](https://spotify-github-stream.vercel.app/api/spotify?id=spotify/iske)](https://open.spotify.com/user/n5png70alc0uljjzf0g737ubn?si=cd595223a4ca4ad4)
-
----
-
 
 ### 💻 Tech Stack:
 
