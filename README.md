@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 
 Hi, I'm a programmer from Serbia.
@@ -11,6 +10,8 @@ Always open to feedback and collaboration.
 ### 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrej.isailovic@prvabeogim.edu.rs)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/n5png70alc0uljjzf0g737ubn)
 
 ---
 
@@ -46,6 +47,6 @@ Always open to feedback and collaboration.
 ### 🔝 Top Contributed Repo
 
 <!-- Zameniti TVOJ_USERNAME i NAZIV_REPOZITORIJUMA sa svojim podacima -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luhsike&repo=liste-2026-andrej&theme=dark)](https://github.com/TVOJ_USERNAME/NAZIV_REPOZITORIJUMA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luhsike&repo=liste-2026-andrej&theme=dark)](https://github.com/luhiske/liste-2026-andrej)
 
 ---
