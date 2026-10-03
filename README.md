@@ -15,7 +15,7 @@ Always open to feedback and collaboration.
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/TVOJ_GITHUB_USERNAME/TVOJ_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/luhiske/luhiske/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
