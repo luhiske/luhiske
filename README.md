@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,10&height=200&section=header&text=Iske&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
 
-### 💫 About Me:
+# 💫 About Me:
 
 Hi, I'm a programmer from Serbia working in C and C#.
 
@@ -39,7 +39,7 @@ Always open to feedback and collaboration.
 
 ---
 
-### 🐍 Contribution
+### 🐍 Contribution:
 
 ![Snake animation](https://raw.githubusercontent.com/luhiske/luhiske/output/github-contribution-grid-snake-dark.svg)
 
