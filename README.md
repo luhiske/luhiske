@@ -31,7 +31,7 @@ Always open to feedback and collaboration.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,unity,dotnet,js,nodejs,express,mongodb,react,html,css,git,github,docker,vscode,figma,steam." />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,unity,dotnet,js,nodejs,express,mongodb,react,html,css,git,github,docker,vscode,figma,discord." />
   </a>
 </p>
 
