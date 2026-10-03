@@ -45,6 +45,17 @@ Always open to feedback and collaboration.
 
 ---
 
+
+### 🛠️ Languages & Tools:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,unity,dotnet,js,nodejs,express,mongodb,react,html,css,git,github,docker,vscode,gimp,figma" />
+  </a>
+</p>
+
+---
+
 ### 🐍 Contribution:
 
 ![Snake animation](https://raw.githubusercontent.com/luhiske/luhiske/output/github-contribution-grid-snake-dark.svg)
