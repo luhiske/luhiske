@@ -42,19 +42,3 @@ Always open to feedback and collaboration.
 ![Snake animation](https://raw.githubusercontent.com/luhiske/luhiske/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luhiske&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhiske&layout=compact&theme=dark" alt="Top Languages" width="350"/>
-</p>
-
----
-
----
-
-### 🔝 Top Contributed Repo
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luhiske&repo=liste-2026-andrej&theme=dark)]
-(https://github.com/luhiske/liste-2026-andrej)
