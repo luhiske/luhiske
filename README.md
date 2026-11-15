@@ -56,4 +56,5 @@ Always open to feedback and collaboration.
 
 ### 🔝 Top Contributed Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luhiske&repo=liste-2026-andrej&theme=dark)](https://github.com/luhiske/liste-2026-andrej)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luhiske&repo=liste-2026-andrej&theme=dark)]
+(https://github.com/luhiske/liste-2026-andrej)
